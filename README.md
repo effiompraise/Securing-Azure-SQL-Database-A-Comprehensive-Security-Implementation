@@ -1,6 +1,6 @@
 # Securing Azure SQL Database: A Comprehensive Security Implementation
 
-![Azure SQL Security](https://imgur.com/placeholder.jpg)
+![Azure SQL Security](/images/azure_sql_banner.png)
 
 ## Introduction
 
@@ -101,7 +101,7 @@ Enabled advanced threat protection to identify potential security vulnerabilitie
 - Automated security assessment scans
 - 30-day trial period followed by pay-per-resource pricing
 
-![Defender for SQL](https://imgur.com/placeholder_defender.jpg)
+![Defender for SQL](/images/Defender%20for%20SQL.png)
 
 ### Phase 3: Data Discovery & Classification
 
@@ -128,7 +128,7 @@ Implemented systematic data classification to identify and protect sensitive inf
 - Information types: Name, Contact Info
 - Automated discovery recommendations reviewed
 
-![Data Classification](https://imgur.com/placeholder_classification.jpg)
+![Data Classification](/images/Data%20Discovery%20&%20Classification.png) [](/images/Data%20Discovery%20&%20Classification.png)
 
 ### Phase 4: Audit Logging Configuration
 
@@ -161,7 +161,7 @@ Established comprehensive audit logging to track database activities and maintai
 - Export capabilities for external SIEM integration
 - Long-term retention support via Azure Storage
 
-![Audit Logging](https://imgur.com/placeholder_audit.jpg)
+![Audit Logging](/images/Audit%20logging.png)
 
 ## Security Metrics & Monitoring
 
