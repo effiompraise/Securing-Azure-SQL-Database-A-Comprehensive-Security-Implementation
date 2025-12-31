@@ -599,7 +599,6 @@ Use this checklist to verify your implementation:
 - Azure Support: https://azure.microsoft.com/support
 
 **Project-Specific Help:**
-- GitHub Issues: [Your Repo URL]/issues
 - Contact: [Praise Effiom](https://linkedin.com/in/praiseeffiom)
 
 ---

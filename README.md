@@ -33,7 +33,7 @@ The project follows industry best practices for database security and demonstrat
 ## Architecture Overview
 
 ### Deployment Architecture
-![Architecture Diagram](https://imgur.com/placeholder_architecture.jpg)
+![Architecture Diagram](/images/Deployment%20Architecture.png)
 
 The architecture implements multiple security layers:
 
