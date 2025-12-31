@@ -317,7 +317,6 @@ This project serves as a blueprint for securing Azure SQL databases in real-worl
 
 - `/arm-templates/` - Azure Resource Manager templates for deployment
 - `/screenshots/` - Step-by-step implementation screenshots
-- `/audit-queries/` - Sample audit log queries for security analysis
 - `/documentation/` - Detailed configuration guides and security policies
 
 ## About This Project
